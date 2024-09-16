@@ -25,11 +25,7 @@ a:visited {
 }
 
 body {
-<<<<<<< HEAD
-  background-image: url(../assets/img/bg.jpg);
-=======
   background-image: url(../img/bg.jpg);
->>>>>>> 66d4f0f (Correction css background image)
   background-size: cover;
   background-attachment: fixed;
   text-align: center;
